@@ -33,7 +33,7 @@ System.out.println("area is"+area);
         int s;
        s=ob.nextInt();
        square o=new square(s);
-       o.area();
+
 
 
 
