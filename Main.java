@@ -10,7 +10,7 @@ class a{
 class b extends a{
  
 // b()
-// {
+// {qwddqwdqdddddd
 //     super.main();
 //      System.out.println(super.x);
 // }
